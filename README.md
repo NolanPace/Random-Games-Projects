@@ -1,162 +1,143 @@
-# Games Portfolio Collection
+# Games Collection 🎮
 
-A collection of game development projects built in **Java** and **Python**, showcasing graphics programming, AI systems, object-oriented design, and interactive gameplay mechanics.
+A personal game development repository containing multiple classic and custom games built in **Java** and **Python**.  
 
-This repository demonstrates experience in:
+This project showcases programming fundamentals, graphics systems, AI logic, object-oriented design, and game mechanics through a variety of playable projects.
 
-- Game architecture
-- Java Swing / JFrame development
-- Python Tkinter GUI programming
-- Artificial Intelligence opponents
+---
+
+## Included Projects
+
+### ♟ Chess
+Multiple versions of chess with upgraded graphics and AI difficulty modes.
+
+**Features**
+- Human vs Human
+- Human vs Computer
+- Easy / Medium / Hard AI
+- Visual chess pieces
+- Move validation
+
+---
+
+### ⚔ Zelda Style RPG
+Top-down action adventure inspired by classic RPG games.
+
+**Features**
+- Character movement
+- Sword combat
+- Enemies
+- Coins / collectibles
+- Exploration
+
+---
+
+### 🏰 Tower Defense
+Strategic defense game where players place towers to stop enemy waves.
+
+**Features**
+- Tower placement
+- Enemy pathing
+- Projectiles
+- Increasing waves
+- Resource system
+
+---
+
+### 🛡 RTS (Age of Empires Inspired)
+Real-time strategy game with units, buildings, and AI opponents.
+
+**Features**
+- Unit movement
+- Combat
+- Building creation
+- Resource management
+- Enemy AI difficulty
+
+---
+
+### 🚗 Racing Game
+Arcade racing game inspired by Need for Speed style gameplay.
+
+**Features**
+- Traffic dodging
+- Speed system
+- Score tracking
+- Restart after crash
+
+---
+
+### 🐍 Snake
+Classic snake game.
+
+**Features**
+- Food collection
+- Growing snake
+- Score system
+
+---
+
+### 💣 Minesweeper
+Classic minesweeper implementation.
+
+**Features**
+- Mine grid
+- Reveal logic
+- Win / lose system
+
+---
+
+### 🧱 Breakout
+Brick-breaking arcade game.
+
+**Features**
+- Paddle movement
+- Ball physics
+- Brick collisions
+
+---
+
+### 🌳 Fractal Tree
+Recursive graphics project.
+
+**Features**
+- Mathematical recursion
+- Fractal rendering
+- Graphics visualization
+
+---
+
+## Technologies Used
+
+### Languages
+- Java
+- Python
+
+### Libraries / Frameworks
+- Java Swing
+- JFrame
+- AWT Graphics
+- Python Tkinter
+
+---
+
+## Skills Demonstrated
+
+- Object-Oriented Programming
+- AI systems
+- Game loops
+- Event handling
 - Collision detection
-- Real-time game loops
+- Graphics programming
+- Recursion
 - UI design
 - Multi-language development
 
 ---
 
-# Included Games
-
-## ♟ Chess vs Computer
-
-A complete chess game with built-in AI difficulty levels.
-
-### Features
-
-- Human vs Human mode
-- Human vs Computer mode
-- Easy / Medium / Hard AI
-- Legal move validation
-- Turn system
-- Visual custom chess pieces
-
-### Files
-
-- `AIChess.java`
-- `AIChess.py`
-
----
-
-## ⚔ Zelda Style RPG
-
-A top-down adventure game inspired by classic action RPGs.
-
-### Features
-
-- Character movement
-- Combat system
-- Enemy encounters
-- Coin collection
-- Win portal objective
-- Enhanced graphics
-
-### Files
-
-- `EnhancedZeldaRPG.java`
-- `EnhancedZeldaRPG.py`
-
----
-
-## 🏰 Tower Defense
-
-A strategic defense game where players place towers to stop enemy waves.
-
-### Features
-
-- Tower placement
-- Enemy pathing
-- Projectile attacks
-- Wave progression
-- Economy / upgrades
-- Score system
-
-### Files
-
-- `EnhancedTowerDefense.java`
-- `EnhancedTowerDefense.py`
-
----
-
-## 🛡 RTS (Age of Empires Inspired)
-
-A real-time strategy game featuring units, buildings, and enemy AI.
-
-### Features
-
-- Unit movement
-- Combat system
-- Build structures
-- Resource management
-- Train units
-- AI enemy difficulty levels
-
-### Files
-
-- `AIRTS.java`
-- `AIRTS.py`
-
----
-
-## 🚗 Arcade Racing
-
-A high-speed driving game inspired by classic racing titles.
-
-### Features
-
-- Traffic avoidance
-- Increasing speed
-- Score system
-- Restart after crash
-- Custom car graphics
-
-### Files
-
-- `EnhancedRacing.java`
-- `EnhancedRacing.py`
-
----
-
-# Technologies Used
-
-## Languages
-
-- Java
-- Python
-
-## Libraries / Frameworks
+## How to Run
 
 ### Java
-
-- Swing
-- JFrame
-- AWT Graphics2D
-
-### Python
-
-- Tkinter
-
----
-
-# Skills Demonstrated
-
-- Object-Oriented Programming
-- AI decision systems
-- Event-driven programming
-- Graphics rendering
-- Collision detection
-- Real-time loops
-- Game state management
-- UI / UX logic
-- Cross-platform development
-
----
-
-# How to Run
-
-## Java
-
-Compile and run:
-
 ```bash
 javac FileName.java
 java FileName
