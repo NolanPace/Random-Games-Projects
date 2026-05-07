@@ -1,4 +1,4 @@
-# Games Collection 🎮
+# Games Collection
 
 A personal game development repository containing multiple classic and custom games built in **Java** and **Python**.  
 
@@ -8,7 +8,7 @@ This project showcases programming fundamentals, graphics systems, AI logic, obj
 
 ## Included Projects
 
-### ♟ Chess
+### Chess
 Multiple versions of chess with upgraded graphics and AI difficulty modes.
 
 **Features**
@@ -20,7 +20,7 @@ Multiple versions of chess with upgraded graphics and AI difficulty modes.
 
 ---
 
-### ⚔ Zelda Style RPG
+### RPG
 Top-down action adventure inspired by classic RPG games.
 
 **Features**
@@ -32,7 +32,7 @@ Top-down action adventure inspired by classic RPG games.
 
 ---
 
-### 🏰 Tower Defense
+### Tower Defense
 Strategic defense game where players place towers to stop enemy waves.
 
 **Features**
@@ -44,7 +44,7 @@ Strategic defense game where players place towers to stop enemy waves.
 
 ---
 
-### 🛡 RTS (Age of Empires Inspired)
+### RTS (Age of Empires Inspired)
 Real-time strategy game with units, buildings, and AI opponents.
 
 **Features**
@@ -56,7 +56,7 @@ Real-time strategy game with units, buildings, and AI opponents.
 
 ---
 
-### 🚗 Racing Game
+### Racing Game
 Arcade racing game inspired by Need for Speed style gameplay.
 
 **Features**
@@ -67,7 +67,7 @@ Arcade racing game inspired by Need for Speed style gameplay.
 
 ---
 
-### 🐍 Snake
+### Snake
 Classic snake game.
 
 **Features**
@@ -77,7 +77,7 @@ Classic snake game.
 
 ---
 
-### 💣 Minesweeper
+### Minesweeper
 Classic minesweeper implementation.
 
 **Features**
@@ -87,23 +87,13 @@ Classic minesweeper implementation.
 
 ---
 
-### 🧱 Breakout
+### Breakout
 Brick-breaking arcade game.
 
 **Features**
 - Paddle movement
 - Ball physics
 - Brick collisions
-
----
-
-### 🌳 Fractal Tree
-Recursive graphics project.
-
-**Features**
-- Mathematical recursion
-- Fractal rendering
-- Graphics visualization
 
 ---
 
